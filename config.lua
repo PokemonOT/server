@@ -55,7 +55,7 @@
 	-- NOTE: showHealingDamageForMonsters inheritates from showHealingDamage.
 	-- loginProtectionPeriod is the famous Tibia anti-magebomb system.
 	-- deathLostPercent set to nil enables manual mode.
-	worldType = "no-pvp"
+	worldType = "pvp"
 	protectionLevel = 1
 	pvpTileIgnoreLevelAndVocationProtection = true
 	pzLocked = 5 * 1000
@@ -84,8 +84,8 @@
 	allowFightback = true
 
 	-- Connection config
-	worldId = 1
-	ip = "51.81.123.251"--"191.179.192.219"--"khjyr.servegame.com"
+	worldId = 0
+	ip = "pokedex.sytes.net"
 	bindOnlyConfiguredIpAddress = true
 	loginPort = 7564
 	gamePort = 8548
@@ -115,7 +115,7 @@
 	sqlPort = 3306
 	sqlUser = "root"
 	sqlPass = ""
-	sqlDatabase = "genesis"
+	sqlDatabase = "pokemon"
 	sqlFile = ""
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
