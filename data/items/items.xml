@@ -19202,8 +19202,13 @@
 	<item id="13016" name="duel icon">
 		<attribute key="writeable" value="1" />
 		<attribute key="maxTextLen" value="256" />
+		<attribute key="description" value="This can be used to duel other players." />
+		<attribute key="slotType" value="ring" />
 	</item>
-	<item id="13017" name="duel icon" />
+	<item id="13017" name="duel icon">
+		<attribute key="description" value="This can be used to duel other players." />
+		<attribute key="slotType" value="ring" />
+	</item>
 	<item fromid="13018" toid="13168" name="unregistered pokemon"/>
 	<item id="13169" name="next page">
 		<attribute key="containerSize" value="36" />
@@ -19285,7 +19290,10 @@
 	<item id="13203" article="an" name="empty leppa berry tree">
 		<attribute key="forceSerialize" value="1" />
 	</item>
-	<item id="13204" name="evolve icon" />
+	<item id="13204" name="evolve icon">
+		<attribute key="description" value="This can be used to evolve your Pokemon." />
+		<attribute key="slotType" value="ring" />
+	</item>
 	<item id="13205" name="evolve icon off" />
 	<item id="13206" name="order icon off" />
 	<item id="13207" name="duel icon off" />
@@ -19863,7 +19871,7 @@
 		<attribute key="maxTextLen" value="512" />
 	</item>
 	<item id="13499" article="a" name="locked simple pokebag">
-		<attribute key="containerSize" value="16" />
+		<attribute key="containerSize" value="100" />
 		<attribute key="slotType" value="backpack" />
 	</item>
 	<item id="13501" name="nothing special" />

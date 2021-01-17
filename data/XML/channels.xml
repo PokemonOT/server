@@ -536,4 +536,10 @@
 	<channel id="598" name="Mossdeep" active="no"/> <!-- Destionation -->
 	<channel id="599" name="Sootopolis" active="no"/> <!-- Destionation -->
 	<channel id="600" name="Pacifidlog" active="no"/> <!-- Destionation -->
+	<channel id="601" name="Turtwig" active="no"/>
+	<channel id="602" name="Grotle" active="no"/>
+	<channel id="603" name="Torterra" active="no"/>
+	<channel id="604" name="Chimchar" active="no"/>
+	<channel id="605" name="Monferno" active="no"/>
+	<channel id="606" name="Infernape" active="no"/>
 </channels>

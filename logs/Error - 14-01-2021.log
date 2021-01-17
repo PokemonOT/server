@@ -1,0 +1,14 @@
+[Error][Thu Jan 14 06:53:44 2021]: doBerryTreeGrow - Can't find item at position.
+    Var 1 : 13198    Var-Table2 y : 547    Var-Table2 x : 3269    Var-Table2 z : 6
+[Error][Thu Jan 14 06:54:59 2021]: doBerryTreeGrow - Can't find item at position.
+    Var 1 : 13197    Var-Table2 y : 549    Var-Table2 x : 3269    Var-Table2 z : 6
+[Error][Thu Jan 14 06:55:02 2021]: doBerryTreeGrow - Can't find item at position.
+    Var 1 : 13171    Var-Table2 y : 551    Var-Table2 x : 3269    Var-Table2 z : 6
+[Error][Thu Jan 14 10:52:44 2021]: doBerryTreeGrow - Can't find item at position.
+    Var 1 : 14779    Var-Table2 y : 545    Var-Table2 x : 3269    Var-Table2 z : 6
+[Error][Thu Jan 14 13:17:32 2021]: doBerryTreeGrow - Can't find item at position.
+    Var 1 : 14772    Var-Table2 y : 547    Var-Table2 x : 3269    Var-Table2 z : 6
+[Error][Thu Jan 14 16:03:18 2021]: doBerryTreeGrow - Can't find item at position.
+    Var 1 : 14772    Var-Table2 y : 551    Var-Table2 x : 3269    Var-Table2 z : 6
+[Error][Thu Jan 14 23:32:20 2021]: getPokemonSpecialAbilities - Unknown poke name.
+    Var 1 : torterra

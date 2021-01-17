@@ -391,6 +391,15 @@
 	<monster name="Plusle" file="Pokemons/plusle.xml"/>	
 	<monster name="Nincada" file="Pokemons/nincada.xml"/>	
 	<monster name="Ralts" file="Pokemons/ralts.xml"/>	
+	<!-- 4th -->
+	<monster name="Turtwig" file="Pokemons/turtwig.xml"/>	
+	<monster name="Grotle" file="Pokemons/grotle.xml"/>	
+	<monster name="Torterra" file="Pokemons/torterra.xml"/>	
+	<monster name="Chimchar" file="Pokemons/chimchar.xml"/>	
+	<monster name="Monferno" file="Pokemons/monferno.xml"/>	
+	<monster name="Infernape" file="Pokemons/infernape.xml"/>	
+	
+	
 	<!-- BOSS / PVP ARENA -->
 	<monster name="The Kicker" file="PvpArena/the kicker.xml"/>
 	<monster name="The Punisher Hand" file="PvpArena/the punisher hand.xml"/>

@@ -86,7 +86,7 @@
 	-- Connection config
 	worldId = 0
 	ip = "pokedex.sytes.net"
-	bindOnlyConfiguredIpAddress = true
+	bindOnlyConfiguredIpAddress = false
 	loginPort = 7564
 	gamePort = 8548
 	adminPort = 7180
@@ -95,12 +95,12 @@
 	retryTimeout = 5 * 1000
 	loginTimeout = 60 * 1000
 	maxPlayers = 100
-	motd = "Sejá bem vindo ao Pokemon Genesis World, Treinador(a)"
+	motd = "Welcome to Pokemon All-Stars"
 	displayOnOrOffAtCharlist = false
 	onePlayerOnlinePerAccount = true
 	allowClones = false
-	serverName = "Cristal"
-	loginMessage = "Bem-vindo ao Genesis World, torne-se um mestre pokémon. Passe por todas as missões, conclua as quest's e explore nossas cidades. "
+	serverName = "PokeAll-Stars"
+	loginMessage = "Welcome to PokeAll-Stars"
 	statusTimeout = 5 * 60 * 1000
 	replaceKickOnLogin = true
 	forceSlowConnectionsToDisconnect = false
@@ -115,7 +115,7 @@
 	sqlPort = 3306
 	sqlUser = "root"
 	sqlPass = ""
-	sqlDatabase = "pokemon"
+	sqlDatabase = "pokeallstars"
 	sqlFile = ""
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
@@ -311,10 +311,10 @@
 	teleportPlayerSummons = true
 
 	-- Status
-	ownerName = "PSoul"
-	ownerEmail = "contact@psoul.net"
+	ownerName = "PokeBattle"
+	ownerEmail = "poke.battle@gmail.com"
 	url = "http://www.psoul.net/"
-	location = "EUA"
+	location = "USA"
 	displayGamemastersWithOnlineCommand = false
 
 	-- Logs

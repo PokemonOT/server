@@ -1,0 +1,10 @@
+[Error][Fri Jan 15 15:21:27 2021]: getPokemonCatchStorage - Unknown poke name.
+    Var 1 : Nidoran♀
+[Error][Fri Jan 15 15:32:44 2021]: onCreatureUseTm - Unknown item.itemid
+    Var 1 : 268459885    Var-Table2 actionid : 0    Var-Table2 uid : 73193    Var-Table2 itemid : 17340    Var-Table2 type : 100    Var-Table3 y : 64    Var-Table3 x : 65535    Var-Table3 stackpos : 21    Var-Table3 z : 21    Var-Table4 actionid : 0    Var-Table4 uid : 73194    Var-Table4 itemid : 3623    Var-Table4 type : 0    Var-Table5 y : 602    Var-Table5 x : 3265    Var-Table5 stackpos : 2    Var-Table5 z : 7
+[Error][Fri Jan 15 15:32:46 2021]: onCreatureUseTm - Unknown item.itemid
+    Var 1 : 268459885    Var-Table2 actionid : 0    Var-Table2 uid : 73194    Var-Table2 itemid : 17340    Var-Table2 type : 100    Var-Table3 y : 64    Var-Table3 x : 65535    Var-Table3 stackpos : 21    Var-Table3 z : 21    Var-Table4 actionid : 0    Var-Table4 uid : 73195    Var-Table4 itemid : 12158    Var-Table4 type : 0    Var-Table5 y : 8    Var-Table5 x : 65535    Var-Table5 stackpos : 0    Var-Table5 z : 0
+[Error][Fri Jan 15 15:32:49 2021]: onCreatureUseTm - Unknown item.itemid
+    Var 1 : 268459885    Var-Table2 actionid : 0    Var-Table2 uid : 73195    Var-Table2 itemid : 17340    Var-Table2 type : 100    Var-Table3 y : 64    Var-Table3 x : 65535    Var-Table3 stackpos : 21    Var-Table3 z : 21    Var-Table4 actionid : 0    Var-Table4 uid : 73196    Var-Table4 itemid : 12159    Var-Table4 type : 0    Var-Table5 y : 8    Var-Table5 x : 65535    Var-Table5 stackpos : 0    Var-Table5 z : 0
+[Error][Fri Jan 15 19:53:56 2021]: getPokemonCatchStorage - Unknown poke name.
+    Var 1 : Nidoran♀

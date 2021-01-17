@@ -1,0 +1,10 @@
+[Error][Wed Jan 13 19:04:58 2021]: getPokemonSpecialAbilities - Unknown poke name.
+    Var 1 : squirtle
+[Error][Wed Jan 13 21:28:14 2021]: getPokemonSpecialAbilities - Unknown poke name.
+    Var 1 : scyther
+[Error][Wed Jan 13 22:41:04 2021]: onCreatureUseTm - Unknown item.itemid
+    Var 1 : 268459874    Var-Table2 actionid : 0    Var-Table2 uid : 71406    Var-Table2 itemid : 17340    Var-Table2 type : 100    Var-Table3 y : 64    Var-Table3 x : 65535    Var-Table3 stackpos : 0    Var-Table3 z : 0    Var-Table4 actionid : 0    Var-Table4 uid : 71407    Var-Table4 itemid : 13494    Var-Table4 type : 0    Var-Table5 y : 8    Var-Table5 x : 65535    Var-Table5 stackpos : 0    Var-Table5 z : 0
+[Error][Wed Jan 13 23:19:43 2021]: getPokemonSpecialAbilities - Unknown poke name.
+    Var 1 : turtwig
+[Error][Wed Jan 13 23:29:50 2021]: getPokemonCatchStorage - Unknown poke name.
+    Var 1 : Nidoran♀
