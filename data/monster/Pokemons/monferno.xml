@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Monferno" nameDescription="a Monferno" shiny="Shiny Monferno" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
 	<health now="58" max="58"/>
-	<look type="2592" head="0" body="0" legs="0" feet="0" corpse="11393"/>
+	<look type="4360" head="0" body="0" legs="0" feet="0" corpse="11393"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>

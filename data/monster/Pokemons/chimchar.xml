@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Chimchar" nameDescription="a Chimchar" shiny="Shiny Chimchar" race="blood" experience="7" speed="265" manacost="0" minLevel="20" maxLevel="30">
 	<health now="39" max="39"/>
-	<look type="2591" head="0" body="0" legs="0" feet="0" corpse="11392"/>
+	<look type="4359" head="0" body="0" legs="0" feet="0" corpse="11392"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>

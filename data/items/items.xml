@@ -8371,9 +8371,10 @@
 		<attribute key="description" value="Collector's all around the world crave for this item." />
 		<attribute key="weight" value="500" />
 	</item>
+	<!--
 	<item id="5894" article="a" name="bat wing" plural="bat wings">
 		<attribute key="weight" value="100" />
-	</item>
+	</item>-->
 	<item id="5895" article="a" name="fish fin" plural="fish fins">
 		<attribute key="description" value="It once belonged to a mighty Quara." />
 		<attribute key="weight" value="120" />

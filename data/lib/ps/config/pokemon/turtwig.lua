@@ -9,7 +9,7 @@ POKEMON["Turtwig"] = {
     chance = 150,
     portrait = 30136,
     dexPortrait = 28779,
-    fastcallPortrait = 28779,
+    fastcallPortrait = 29153,
     catchStorage = 16387,
     evolutions = { { name = "Grotle", requiredLevel = 35 } },
     description = "There is a plant seed on its back right from the day this POKEMON is born. The seed slowly grows larger.",

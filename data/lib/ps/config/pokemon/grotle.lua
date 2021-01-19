@@ -9,7 +9,7 @@ POKEMON["Grotle"] = {
     chance = 300,
     portrait = 30137,
     dexPortrait = 30137,
-    fastcallPortrait = 28780,
+    fastcallPortrait = 29153,
     catchStorage = 16388,
     evolutions = { { name = "Torterra", requiredLevel = 55 } },
     description = "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.",
