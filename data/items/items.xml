@@ -2384,12 +2384,14 @@
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="86400" />
 	</item>
+	<!--
 	<item id="2353" article="a" name="burning heart">
 		<attribute key="description" value="It is still beating with unholy life. It seems to be rotting rapidly." />
 		<attribute key="weight" value="400" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="86400" />
 	</item>
+	-->
 	<item id="2354" article="an" name="ornamented ankh">
 		<attribute key="description" value="This ancient relic shows signs of untold age. It seems to be rotting rapidly." />
 		<attribute key="weight" value="200" />
@@ -8344,10 +8346,12 @@
 		<attribute key="description" value="It is made from fine giant spider silk." />
 		<attribute key="weight" value="100" />
 	</item>
+	<!--
 	<item id="5887" article="a" name="piece of royal steel" plural="pieces of royal steel">
 		<attribute key="description" value="Even the king would be proud to wear an armour made of this refined steel." />
 		<attribute key="weight" value="450" />
 	</item>
+	-->
 	<item id="5888" article="a" name="piece of hell steel" plural="pieces of hell steel">
 		<attribute key="description" value="This rare metal must have been refined in the depths of Tibia." />
 		<attribute key="weight" value="600" />
@@ -16694,9 +16698,11 @@
 	<item id="11330" article="a" name="lizard trophy">
 		<attribute key="weight" value="1200" />
 	</item>
+	<!--
 	<item id="11331" article="a" name="petrified scream" plural="petrified scream">
 		<attribute key="weight" value="150" />
 	</item>
+	-->
 	<item id="11349" name="spellweaver's robe">
 		<attribute key="armor" value="11" />
 		<attribute key="weight" value="2450" />
