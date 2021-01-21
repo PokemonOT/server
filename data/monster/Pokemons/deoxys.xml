@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Deoxys" nameDescription="a Deoxys" race="blood" experience="15" speed="350" manacost="0" minLevel="100" maxLevel="100" sex="2">
 	<health now="50" max="50"/>
-	<look type="1565" corpse="28869"/>
+	<look type="4773" corpse="28869"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>

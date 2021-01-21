@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Latias" nameDescription="a Latias" race="blood" experience="15" speed="310" manacost="0" minLevel="100" maxLevel="100">
 	<health now="80" max="80"/>
-	<look type="1559" corpse="28863"/>
+	<look type="7152" corpse="28863"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>

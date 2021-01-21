@@ -692,6 +692,16 @@ BADGES = {
     SEA_RUBY = { newItemId = 18198, oldItemId = 18625, name = "Sea Ruby" },
     SPIKE_SHELL = { newItemId = 18199, oldItemId = 18626, name = "Spike Shell" },
     JADE_STAR = { newItemId = 18200, oldItemId = 18627, name = "Jade Star" },
+	-- Orange Archipelago
+    T1CORAL_EYE = { newItemId = 18197, oldItemId = 18624, name = "T1 Coral Eye" },
+    T1SEA_RUBY = { newItemId = 18198, oldItemId = 18625, name = "T1 Sea Ruby" },
+    T1SPIKE_SHELL = { newItemId = 18199, oldItemId = 18626, name = "T1 Spike Shell" },
+    T1JADE_STAR = { newItemId = 18200, oldItemId = 18627, name = "T1 Jade Star" },
+	-- Orange Archipelago
+    T1T1CORAL_EYE = { newItemId = 18197, oldItemId = 18624, name = "T1T1 Coral Eye" },
+    T1T1SEA_RUBY = { newItemId = 18198, oldItemId = 18625, name = "T1T1 Sea Ruby" },
+    T1T1SPIKE_SHELL = { newItemId = 18199, oldItemId = 18626, name = "T1T1 Spike Shell" },
+    T1T1JADE_STAR = { newItemId = 18200, oldItemId = 18627, name = "T1T1 Jade Star" },
 }
 
 MOVE_CATEGORY = {

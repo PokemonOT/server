@@ -24,19 +24,19 @@ dodirectory(PS_LIB_CONFIG_DIR .. "pokemon/")
 local POKEMONS = {}
 for name, pokemon in pairs(POKEMON) do
     -- Automatic set
-    if (pokemon.catchStorage == -1) then
-        pokemon.catchStorage = 16000 + getPokemonNumberByName(name)
-    end
+--    if (pokemon.catchStorage == -1) then
+--        pokemon.catchStorage = 16000 + getPokemonNumberByName(name)
+--    end
 
     -- Automatic set
-    if (pokemon.portrait == -1) then
-        pokemon.portrait = 28149 + getPokemonNumberByName(name)
-    end
+--    if (pokemon.portrait == -1) then
+--        pokemon.portrait = 28149 + getPokemonNumberByName(name)
+--    end
 
     -- Automatic set
-    if (pokemon.dexPortrait == -1) then
-        pokemon.dexPortrait = 28013 + getPokemonNumberByName(name)
-    end
+--    if (pokemon.dexPortrait == -1) then
+--        pokemon.dexPortrait = 28013 + getPokemonNumberByName(name)
+--    end
 
     POKEMONS[name] = pokemon
 
