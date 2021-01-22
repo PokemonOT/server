@@ -20,6 +20,7 @@ ITEMS = {
 
 POKEMON = {}
 dodirectory(PS_LIB_CONFIG_DIR .. "pokemon/")
+dodirectory(PS_LIB_CONFIG_DIR .. "gen4/")
 
 local POKEMONS = {}
 for name, pokemon in pairs(POKEMON) do
