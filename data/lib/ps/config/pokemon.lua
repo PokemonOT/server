@@ -19,8 +19,16 @@ ITEMS = {
 }
 
 POKEMON = {}
-dodirectory(PS_LIB_CONFIG_DIR .. "pokemon/")
-dodirectory(PS_LIB_CONFIG_DIR .. "gen4/")
+dodirectory(PS_LIB_CONFIG_DIR .. "kanto/") -- 1st Gen
+dodirectory(PS_LIB_CONFIG_DIR .. "johto/") -- 2nd Gen
+dodirectory(PS_LIB_CONFIG_DIR .. "hoenn/") -- 3rd Gen
+dodirectory(PS_LIB_CONFIG_DIR .. "sinnoh/") -- 4th Gen
+-- dodirectory(PS_LIB_CONFIG_DIR .. "unova/")
+-- dodirectory(PS_LIB_CONFIG_DIR .. "kalos/")
+-- dodirectory(PS_LIB_CONFIG_DIR .. "alola/")
+-- dodirectory(PS_LIB_CONFIG_DIR .. "galar/")
+dodirectory(PS_LIB_CONFIG_DIR .. "pokemon/") -- old folder
+
 
 local POKEMONS = {}
 for name, pokemon in pairs(POKEMON) do
