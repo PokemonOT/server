@@ -1,0 +1,8 @@
+[Error][Tue Jan 19 14:03:46 2021]: getPokemonSpecialAbilities - Unknown poke name.
+    Var 1 : chimchar
+[Error][Tue Jan 19 19:06:06 2021]: getPokemonSpecialAbilities - Unknown poke name.
+    Var 1 : electrode
+[Error][Tue Jan 19 20:37:12 2021]: Npc::default_requirement - Unknown NPC!
+    Var 1 : Keir Jez
+[Error][Tue Jan 19 20:37:21 2021]: Npc::default_requirement - Unknown NPC!
+    Var 1 : Keir Jez

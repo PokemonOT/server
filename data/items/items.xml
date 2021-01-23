@@ -35837,4 +35837,8 @@
 	<item id="30027" name="rum" />
 	<item id="30028" name="swamp" />
 	<item id="30035" name="tea" />
+	
+	<item fromid="30136" toid="30141" article="a" name="pokemon portrait">
+		<attribute key="slotType" value="legs" />
+	</item>
 </items>
