@@ -392,12 +392,12 @@
 	<monster name="Nincada" file="Pokemons/nincada.xml"/>	
 	<monster name="Ralts" file="Pokemons/ralts.xml"/>	
 	<!-- 4th -->
-	<monster name="Turtwig" file="Pokemons/turtwig.xml"/>	
-	<monster name="Grotle" file="Pokemons/grotle.xml"/>	
-	<monster name="Torterra" file="Pokemons/torterra.xml"/>	
-	<monster name="Chimchar" file="Pokemons/chimchar.xml"/>	
-	<monster name="Monferno" file="Pokemons/monferno.xml"/>	
-	<monster name="Infernape" file="Pokemons/infernape.xml"/>	
+	<monster name="Turtwig" file="Pokemons/4/turtwig.xml"/>	
+	<monster name="Grotle" file="Pokemons/4/grotle.xml"/>	
+	<monster name="Torterra" file="Pokemons/4/torterra.xml"/>	
+	<monster name="Chimchar" file="Pokemons/4/chimchar.xml"/>	
+	<monster name="Monferno" file="Pokemons/4/monferno.xml"/>	
+	<monster name="Infernape" file="Pokemons/4/infernape.xml"/>	
 	
 	
 	<!-- BOSS / PVP ARENA -->
