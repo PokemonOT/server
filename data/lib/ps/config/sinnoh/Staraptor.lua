@@ -1,4 +1,4 @@
-POKEMON["Pidgeot"] = {
+POKEMON["Staraptor"] = {
     pTypes = { ELEMENT_NORMAL, ELEMENT_FLYING },
     dexStorage = 10018,
     atk = 80,

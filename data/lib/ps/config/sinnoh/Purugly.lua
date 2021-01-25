@@ -1,4 +1,4 @@
-POKEMON["Persian"] = {
+POKEMON["Purugly"] = {
     pTypes = { ELEMENT_NORMAL },
     dexStorage = 10053,
     atk = 70,

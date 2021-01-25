@@ -1,4 +1,4 @@
-POKEMON["Noctowl"] = {
+POKEMON["Honchkrow"] = {
     pTypes = { ELEMENT_NORMAL, ELEMENT_FLYING },
     dexStorage = 10164,
     atk = 50,

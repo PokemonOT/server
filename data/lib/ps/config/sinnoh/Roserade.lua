@@ -1,4 +1,4 @@
-POKEMON["Roselia"] = {
+POKEMON["Roserade"] = {
     pTypes = { ELEMENT_GRASS, ELEMENT_POISON },
     dexStorage = 10315,
     atk = 60,

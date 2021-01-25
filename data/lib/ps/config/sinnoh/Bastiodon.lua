@@ -1,4 +1,4 @@
-POKEMON["Aggron"] = {
+POKEMON["Bastiodon"] = {
     pTypes = { ELEMENT_STEEL, ELEMENT_ROCK },
     dexStorage = 10306,
     atk = 110,

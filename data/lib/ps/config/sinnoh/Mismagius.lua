@@ -1,4 +1,4 @@
-POKEMON["Gengar"] = {
+POKEMON["Mismagius"] = {
     pTypes = { ELEMENT_GHOST, ELEMENT_POISON },
     dexStorage = 10094,
     atk = 65,

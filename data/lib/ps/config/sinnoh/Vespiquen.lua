@@ -1,4 +1,4 @@
-POKEMON["Venomoth"] = {
+POKEMON["Vespiquen"] = {
     pTypes = { ELEMENT_BUG, ELEMENT_POISON },
     dexStorage = 10049,
     atk = 65,

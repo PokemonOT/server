@@ -1,4 +1,4 @@
-POKEMON["Wartortle"] = {
+POKEMON["Prinplup"] = {
     pTypes = { ELEMENT_WATER },
     dexStorage = 10394,
     atk = 66,

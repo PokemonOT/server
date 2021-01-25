@@ -1,4 +1,4 @@
-POKEMON["Psyduck"] = {
+POKEMON["Shellos"] = {
     pTypes = { ELEMENT_WATER },
     dexStorage = 10054,
     atk = 52,

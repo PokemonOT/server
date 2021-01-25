@@ -1,4 +1,4 @@
-POKEMON["Arbok"] = {
+POKEMON["Kricketune"] = {
     pTypes = { ELEMENT_POISON },
     dexStorage = 10024,
     atk = 85,

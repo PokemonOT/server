@@ -1,4 +1,4 @@
-POKEMON["Bellsprout"] = {
+POKEMON["Budew"] = {
     pTypes = { ELEMENT_GRASS, ELEMENT_POISON },
     dexStorage = 10069,
     atk = 75,

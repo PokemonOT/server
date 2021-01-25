@@ -1,4 +1,4 @@
-POKEMON["Jumpluff"] = {
+POKEMON["Cherrim"] = {
     pTypes = { ELEMENT_GRASS, ELEMENT_FLYING },
     dexStorage = 10189,
     atk = 55,

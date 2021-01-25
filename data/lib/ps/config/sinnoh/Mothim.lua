@@ -1,4 +1,4 @@
-POKEMON["Butterfree"] = {
+POKEMON["Mothim"] = {
     pTypes = { ELEMENT_BUG, ELEMENT_FLYING },
     dexStorage = 10012,
     atk = 45,

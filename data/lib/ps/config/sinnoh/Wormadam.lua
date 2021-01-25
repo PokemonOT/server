@@ -1,4 +1,4 @@
-POKEMON["Metapod"] = {
+POKEMON["Wormadam"] = {
     pTypes = { ELEMENT_BUG },
     dexStorage = 10011,
     atk = 20,

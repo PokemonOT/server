@@ -1,4 +1,4 @@
-POKEMON["Caterpie"] = {
+POKEMON["Burmy"] = {
     pTypes = { ELEMENT_BUG },
     dexStorage = 10010,
     atk = 30,
@@ -21,12 +21,3 @@ POKEMON["Caterpie"] = {
     specialAbilities = { POKEMON_SPECIAL_ABILITY_IDS.SHIELD_DUST },
     learnableTms = false
 }
-
-POKEMON["RC Caterpie"] = table.deepcopy(POKEMON["Caterpie"])
-POKEMON["RC Caterpie"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Caterpie"].blockTransform = true
-
-POKEMON["Christmas Caterpie"] = table.deepcopy(POKEMON["Caterpie"])
-POKEMON["Christmas Caterpie"].blockTransform = true
-POKEMON["Christmas Caterpie"].evolutions = {}
-POKEMON["Christmas Caterpie"].ignoreBallCounter = true

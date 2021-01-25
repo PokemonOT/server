@@ -1,4 +1,4 @@
-POKEMON["Rattata"] = {
+POKEMON["Bidoof"] = {
     pTypes = { ELEMENT_NORMAL },
     dexStorage = 10019,
     atk = 56,
@@ -22,12 +22,3 @@ POKEMON["Rattata"] = {
     learnableTms = { TM_IDS.SOFTBOILED, TM_IDS.DEFENSE_CURL, TM_IDS.MUD_SLAP, TM_IDS.SHADOW_BALL, TM_IDS.IRON_TAIL, TM_IDS.RAIN_DANCE, TM_IDS.ICY_WIND, TM_IDS.HEADBUTT, TM_IDS.THUNDER_WAVE, TM_IDS.ICE_BEAM, TM_IDS.TOXIC, TM_IDS.BODY_SLAM, TM_IDS.TAKE_DOWN, TM_IDS.DOUBLE_EDGE, TM_IDS.BUBBLEBEAM, TM_IDS.WATER_GUN, TM_IDS.BLIZZARD, TM_IDS.RAGE, TM_IDS.THUNDERBOLT, TM_IDS.THUNDER, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.BIDE, TM_IDS.SWIFT, TM_IDS.SKULL_BASH, TM_IDS.REST, TM_IDS.SUBSTITUTE, TM_IDS.TAUNT, TM_IDS.SHOCK_WAVE },
     eggMoves = { "Bite", "Counter", "Final Gambit", "Flame Wheel", "Fury Swipes", "Last Resort", "Me First", "Revenge", "Reversal", "Screech", "Uproar" }
 }
-
-POKEMON["RC Rattata"] = table.deepcopy(POKEMON["Rattata"])
-POKEMON["RC Rattata"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Rattata"].blockTransform = true
-
-POKEMON["Christmas Rattata"] = table.deepcopy(POKEMON["Rattata"])
-POKEMON["Christmas Rattata"].blockTransform = true
-POKEMON["Christmas Rattata"].evolutions = {}
-POKEMON["Christmas Rattata"].ignoreBallCounter = true

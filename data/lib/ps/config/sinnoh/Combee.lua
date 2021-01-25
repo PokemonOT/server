@@ -1,4 +1,4 @@
-POKEMON["Venonat"] = {
+POKEMON["Combee"] = {
     pTypes = { ELEMENT_BUG, ELEMENT_POISON },
     dexStorage = 10048,
     atk = 55,

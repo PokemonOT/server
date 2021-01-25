@@ -1,4 +1,4 @@
-POKEMON["Squirtle"] = {
+POKEMON["Piplup"] = {
     pTypes = { ELEMENT_WATER },
     dexStorage = 10007,
     atk = 48,

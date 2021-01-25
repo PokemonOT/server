@@ -1,4 +1,4 @@
-POKEMON["Skitty"] = {
+POKEMON["Buneary"] = {
     pTypes = { ELEMENT_NORMAL },
     dexStorage = 10300,
     atk = 45,

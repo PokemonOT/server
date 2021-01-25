@@ -1,4 +1,4 @@
-POKEMON["Vaporeon"] = {
+POKEMON["Floatzel"] = {
     pTypes = { ELEMENT_WATER },
     dexStorage = 10134,
     atk = 65,
@@ -22,7 +22,3 @@ POKEMON["Vaporeon"] = {
     learnableTms = { TM_IDS.SOFTBOILED, TM_IDS.WATER_PULSE, TM_IDS.MUD_SLAP, TM_IDS.SHADOW_BALL, TM_IDS.IRON_TAIL, TM_IDS.RAIN_DANCE, TM_IDS.ICY_WIND, TM_IDS.HEADBUTT, TM_IDS.TOXIC, TM_IDS.BODY_SLAM, TM_IDS.TAKE_DOWN, TM_IDS.DOUBLE_EDGE, TM_IDS.BUBBLEBEAM, TM_IDS.WATER_GUN, TM_IDS.ICE_BEAM, TM_IDS.BLIZZARD, TM_IDS.HYPER_BEAM, TM_IDS.RAGE, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.REFLECT, TM_IDS.BIDE, TM_IDS.SWIFT, TM_IDS.SKULL_BASH, TM_IDS.REST, TM_IDS.SUBSTITUTE, TM_IDS.ROAR, TM_IDS.HAIL },
     eggMoves = { "Captivate", "Charm", "Covet", "Curse", "Detect", "Endure", "Fake Tears", "Flail", "Natural Gift", "Stored Power", "Synchronoise", "Tickle", "Wish", "Yawn" }
 }
-
-POKEMON["RC Vaporeon"] = table.deepcopy(POKEMON["Vaporeon"])
-POKEMON["RC Vaporeon"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Vaporeon"].blockTransform = true

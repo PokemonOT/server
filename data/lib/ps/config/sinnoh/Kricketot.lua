@@ -1,4 +1,4 @@
-POKEMON["Ekans"] = {
+POKEMON["Kricketot"] = {
     pTypes = { ELEMENT_POISON },
     dexStorage = 10023,
     atk = 60,

@@ -1,4 +1,4 @@
-POKEMON["Pikachu"] = {
+POKEMON["Leafeon"] = {
     pTypes = { ELEMENT_ELECTRIC },
     dexStorage = 10025,
     atk = 55,

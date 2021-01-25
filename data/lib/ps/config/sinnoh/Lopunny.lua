@@ -1,4 +1,4 @@
-POKEMON["Slaking"] = {
+POKEMON["Lopunny"] = {
     pTypes = { ELEMENT_NORMAL },
     dexStorage = 10289,
     atk = 160,

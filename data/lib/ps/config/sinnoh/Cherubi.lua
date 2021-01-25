@@ -1,4 +1,4 @@
-POKEMON["Hoppip"] = {
+POKEMON["Cherubi"] = {
     pTypes = { ELEMENT_GRASS, ELEMENT_FLYING },
     dexStorage = 10187,
     atk = 35,
@@ -22,7 +22,3 @@ POKEMON["Hoppip"] = {
     learnableTms = { TM_IDS.ENERGY_BALL, TM_IDS.AERIAL_ACE, TM_IDS.DEFENSE_CURL, TM_IDS.GIGA_DRAIN, TM_IDS.HEADBUTT, TM_IDS.REFLECT, TM_IDS.SWORDS_DANCE, TM_IDS.TOXIC, TM_IDS.DOUBLE_EDGE, TM_IDS.RAGE, TM_IDS.SOLAR_BEAM, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.REST, TM_IDS.BIDE, TM_IDS.SUBSTITUTE, TM_IDS.BULLET_SEED },
     eggMoves = { "Amnesia", "Aromatherapy", "Confusion", "Cotton Guard", "Double-Edge", "Encore", "Endure", "Grassy Terrain", "Helping Hand", "Seed Bomb", "Worry Seed" }
 }
-
-POKEMON["RC Hoppip"] = table.deepcopy(POKEMON["Hoppip"])
-POKEMON["RC Hoppip"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Hoppip"].blockTransform = true

@@ -1,4 +1,4 @@
-POKEMON["Haunter"] = {
+POKEMON["Drifblim"] = {
     pTypes = { ELEMENT_GHOST, ELEMENT_POISON },
     dexStorage = 10093,
     atk = 50,
@@ -22,9 +22,3 @@ POKEMON["Haunter"] = {
     learnableTms = { TM_IDS.POISON_JAB, TM_IDS.ENERGY_BALL, TM_IDS.NIGHTMARE, TM_IDS.SLUDGE_BOMB, TM_IDS.SHADOW_BALL, TM_IDS.GIGA_DRAIN, TM_IDS.RAIN_DANCE, TM_IDS.ZAP_CANNON, TM_IDS.TOXIC, TM_IDS.RAGE, TM_IDS.MEGA_DRAIN, TM_IDS.THUNDERBOLT, TM_IDS.THUNDER, TM_IDS.PSYCHIC, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.BIDE, TM_IDS.SELFDESTRUCT, TM_IDS.DREAM_EATER, TM_IDS.REST, TM_IDS.PSYWAVE, TM_IDS.EXPLOSION, TM_IDS.SUBSTITUTE, TM_IDS.TAUNT },
     eggMoves = { "Astonish", "Clear Smog", "Disable", "Fire Punch", "Grudge", "Haze", "Ice Punch", "Perish Song", "Psywave", "Reflect Type", "Scary Face", "Smog", "Thunder Punch" }
 }
-
-POKEMON["RC Haunter"] = table.deepcopy(POKEMON["Haunter"])
-POKEMON["RC Haunter"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Haunter"].blockTransform = true
-
-POKEMON["Scary Haunter"] = table.deepcopy(POKEMON["Haunter"])

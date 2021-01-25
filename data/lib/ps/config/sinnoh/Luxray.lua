@@ -1,4 +1,4 @@
-POKEMON["Ampharos"] = {
+POKEMON["Luxray"] = {
     pTypes = { ELEMENT_ELECTRIC },
     dexStorage = 10181,
     atk = 75,

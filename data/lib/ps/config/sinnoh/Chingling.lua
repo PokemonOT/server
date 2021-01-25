@@ -1,4 +1,4 @@
-POKEMON["Drowzee"] = {
+POKEMON["Chingling"] = {
     pTypes = { ELEMENT_PSYCHIC },
     dexStorage = 10096,
     atk = 48,

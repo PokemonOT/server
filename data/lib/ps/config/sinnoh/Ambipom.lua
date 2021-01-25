@@ -1,4 +1,4 @@
-POKEMON["Scyther"] = {
+POKEMON["Ambipom"] = {
     pTypes = { ELEMENT_BUG, ELEMENT_FLYING },
     dexStorage = 10123,
     atk = 110,

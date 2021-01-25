@@ -1,4 +1,4 @@
-POKEMON["Flaaffy"] = {
+POKEMON["Luxio"] = {
     pTypes = { ELEMENT_ELECTRIC },
     dexStorage = 10180,
     atk = 55,
