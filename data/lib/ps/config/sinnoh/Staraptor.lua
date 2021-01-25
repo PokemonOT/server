@@ -22,10 +22,3 @@ POKEMON["Staraptor"] = {
     learnableTms = { TM_IDS.AERIAL_ACE, TM_IDS.STEEL_WING, TM_IDS.MUD_SLAP, TM_IDS.RAIN_DANCE, TM_IDS.RAZOR_WIND, TM_IDS.WHIRLWIND, TM_IDS.TOXIC, TM_IDS.TAKE_DOWN, TM_IDS.DOUBLE_EDGE, TM_IDS.RAGE, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.REFLECT, TM_IDS.BIDE, TM_IDS.SWIFT, TM_IDS.SKY_ATTACK, TM_IDS.REST, TM_IDS.SUBSTITUTE },
     eggMoves = { "Air Cutter", "Air Slash", "Brave Bird", "Defog", "Faint Attack", "Foresight", "Pursuit", "Steel Wing", "Uproar" }
 }
-
-POKEMON["RC Pidgeot"] = table.deepcopy(POKEMON["Pidgeot"])
-POKEMON["RC Pidgeot"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Pidgeot"].blockTransform = true
-
-POKEMON["Cloned Pidgeot"] = table.deepcopy(POKEMON["Pidgeot"])
-POKEMON["Cloned Pidgeot"].blockTransform = true

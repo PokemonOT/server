@@ -22,9 +22,3 @@ POKEMON["Vespiquen"] = {
     learnableTms = { TM_IDS.SOFTBOILED, TM_IDS.ENERGY_BALL, TM_IDS.AERIAL_ACE, TM_IDS.SLUDGE_BOMB, TM_IDS.GIGA_DRAIN, TM_IDS.RAZOR_WIND, TM_IDS.WHIRLWIND, TM_IDS.TOXIC, TM_IDS.TAKE_DOWN, TM_IDS.DOUBLE_EDGE, TM_IDS.HYPER_BEAM, TM_IDS.RAGE, TM_IDS.MEGA_DRAIN, TM_IDS.SOLAR_BEAM, TM_IDS.PSYCHIC, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.REFLECT, TM_IDS.BIDE, TM_IDS.BIDE, TM_IDS.REST, TM_IDS.PSYWAVE, TM_IDS.SUBSTITUTE },
     eggMoves = { "Agility", "Baton Pass", "Bug Bite", "Giga Drain", "Morning Sun", "Rage Powder", "Screech", "Secret Power", "Signal Beam", "Skill Swap", "Toxic Spikes" }
 }
-
-POKEMON["RC Venomoth"] = table.deepcopy(POKEMON["Venomoth"])
-POKEMON["RC Venomoth"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Venomoth"].blockTransform = true
-
-POKEMON["Furious Venomoth"] = table.deepcopy(POKEMON["Venomoth"])

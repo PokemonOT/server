@@ -22,7 +22,3 @@ POKEMON["Kricketune"] = {
     learnableTms = { TM_IDS.POISON_JAB, TM_IDS.ROCK_TOMB, TM_IDS.SLUDGE_BOMB, TM_IDS.IRON_TAIL, TM_IDS.GIGA_DRAIN, TM_IDS.RAIN_DANCE, TM_IDS.HEADBUTT, TM_IDS.TOXIC, TM_IDS.BODY_SLAM, TM_IDS.TAKE_DOWN, TM_IDS.DOUBLE_EDGE, TM_IDS.HYPER_BEAM, TM_IDS.RAGE, TM_IDS.MEGA_DRAIN, TM_IDS.EARTHQUAKE, TM_IDS.FISSURE, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.BIDE, TM_IDS.SKULL_BASH, TM_IDS.REST, TM_IDS.ROCK_SLIDE, TM_IDS.SUBSTITUTE },
     eggMoves = { "Beat Up", "Disable", "Iron Tail", "Poison Fang", "Poison Tail", "Pursuit", "Scary Face", "Slam", "Snatch", "Spite", "Sucker Punch", "Switcheroo" }
 }
-
-POKEMON["RC Arbok"] = table.deepcopy(POKEMON["Arbok"])
-POKEMON["RC Arbok"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Arbok"].blockTransform = true

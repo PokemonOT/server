@@ -22,9 +22,3 @@ POKEMON["Skuntank"] = {
     learnableTms = { TM_IDS.SOFTBOILED, TM_IDS.FLAMETHROWER, TM_IDS.SLUDGE_BOMB, TM_IDS.SHADOW_BALL, TM_IDS.RAIN_DANCE, TM_IDS.ZAP_CANNON, TM_IDS.TOXIC, TM_IDS.HYPER_BEAM, TM_IDS.RAGE, TM_IDS.THUNDERBOLT, TM_IDS.THUNDER, TM_IDS.MIMIC, TM_IDS.DOUBLE_TEAM, TM_IDS.BIDE, TM_IDS.SELFDESTRUCT, TM_IDS.FIRE_BLAST, TM_IDS.REST, TM_IDS.EXPLOSION, TM_IDS.SUBSTITUTE, TM_IDS.TAUNT, TM_IDS.SHOCK_WAVE },
     eggMoves = { "Curse", "Destiny Bond", "Grudge", "Pain Split", "Psybeam", "Psywave", "Screech", "Spite" --[[, "Spit Up", "Stockpile", "Swallow"]], "Toxic Spikes" }
 }
-
-POKEMON["RC Weezing"] = table.deepcopy(POKEMON["Weezing"])
-POKEMON["RC Weezing"].pTypes = { ELEMENT_POISON, ELEMENT_NORMAL }
-POKEMON["RC Weezing"].blockTransform = true
-
-POKEMON["Rocket's Weezing"] = table.deepcopy(POKEMON["Weezing"])
