@@ -1,6 +1,6 @@
 POKEMON["Pikachu"] = {
     pTypes = { ELEMENT_ELECTRIC },
-    dexStorage = 10025,
+    dexStorage = 10493,
     atk = 55,
     def = 40,
     spAtk = 50,
@@ -9,8 +9,8 @@ POKEMON["Pikachu"] = {
     chance = 150,
     portrait = 12726,
     dexPortrait = 13526,
-    fastcallPortrait = 10659,
-    catchStorage = 16025,
+    fastcallPortrait = 28885,
+    catchStorage = 16493,
     evolutions = { { name = "Raichu", requiredLevel = 35, requiredItems = { ITEMS.THUNDERSTONE } } },
     description = "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
     skills = { "Tackle", 1, "Thunder Shock", 5, "Double Team", 10, "Quick Attack", 15, "Slam", 20, "Thunderbolt", 25, "Agility", 30 },
