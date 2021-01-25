@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Turtwig" nameDescription="a Turtwig" shiny="Shiny Turtwig" race="blood" experience="10" speed="100" manacost="0" minLevel="20" maxLevel="30">
 	<health now="45" max="45"/>
-	<look type="1" head="0" body="0" legs="0" feet="0" corpse="11389"/>
+	<look type="400" head="0" body="0" legs="0" feet="0" corpse="11389"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>
